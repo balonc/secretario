@@ -4,3 +4,6 @@
 [submodule "crypto"]
 	path = crypto
 	url = git@github.com:balonc/crypto.git
+[submodule "automata"]
+	path = automata
+	url = git@github.com:balonc/automata.git
