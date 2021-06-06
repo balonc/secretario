@@ -1,0 +1,3 @@
+[submodule "kronos"]
+	path = kronos
+	url = git@github.com:balonc/kronos.git
