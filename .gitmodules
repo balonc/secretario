@@ -7,3 +7,6 @@
 [submodule "automata"]
 	path = automata
 	url = git@github.com:balonc/automata.git
+[submodule "contable"]
+	path = contable
+	url = git@github.com:balonc/contable.git
